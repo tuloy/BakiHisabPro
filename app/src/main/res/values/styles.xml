@@ -1,0 +1,2 @@
+<resources><style name="Theme.BakiHisab" parent="android:style/Theme.Material.Light.NoActionBar">
+<item name="android:fontFamily">sans</item><item name="android:colorAccent">#1F6FEB</item><item name="android:navigationBarColor">#F4F7FB</item><item name="android:statusBarColor">#F4F7FB</item><item name="android:windowLightStatusBar">true</item></style></resources>
